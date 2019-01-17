@@ -8,4 +8,4 @@
 
 ## Finder:
 
-  Toggle Invisible Files:  CMD + SHIFT + .
+    Toggle Invisible Files:  CMD + SHIFT + .
